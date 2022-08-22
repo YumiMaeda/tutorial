@@ -1,3 +1,3 @@
 
 console.log('AA');
-console.('R');
+console.log('R');
